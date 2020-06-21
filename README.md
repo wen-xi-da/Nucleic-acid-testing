@@ -7,9 +7,9 @@
 步骤：
 
 1、疫情风险查询，微信扫码打开国务院小程序，便民服务中选择疫情风险查询，查询该机构和途径地是否途径中高风险区域，有可能会影响北京健康宝绿码
+
 ![image]("https://yj-zhu.github.io/Nucleic-acid-testing/image/WechatIMG3.jpeg")
 
-![image](https://github.com/yj-zhu/Nucleic-acid-testing/blob/master/image/WechatIMG3.jpeg)
 
 2、微信扫码打开国务院小程序，便民服务中选择核酸检测机构
 
@@ -23,4 +23,4 @@
 
 微信:yr_Jan13 备注：加群
 
-![image](https://github.com/yj-zhu/Nucleic-acid-detection-method/blob/master/WechatIMG4.jpeg)
+![image]("https://yj-zhu.github.io/Nucleic-acid-testing/image/WechatIMG4.jpeg")
