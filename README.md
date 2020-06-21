@@ -21,6 +21,6 @@
 
 加群咨询
 
-微信:yr_Jan13
+微信:yr_Jan13 备注：加群
 
 ![image](https://github.com/yj-zhu/Nucleic-acid-detection-method/blob/master/WechatIMG4.jpeg)
