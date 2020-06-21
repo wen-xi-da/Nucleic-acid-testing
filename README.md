@@ -7,6 +7,7 @@
 步骤：
 
 1、疫情风险查询，微信扫码打开国务院小程序，便民服务中选择疫情风险查询，查询该机构和途径地是否途径中高风险区域，有可能会影响北京健康宝绿码
+<img src="/WechatIMG3.jpeg"/>
 
 ![image](https://github.com/yj-zhu/Nucleic-acid-detection-method/blob/master/WechatIMG3.jpeg)
 
