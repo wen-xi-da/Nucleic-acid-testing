@@ -14,3 +14,4 @@
 
 加群咨询
 微信:yr_Jan13
+![image](https://github.com/yj-zhu/Nucleic-acid-detection-method/blob/master/WechatIMG4.jpeg)
