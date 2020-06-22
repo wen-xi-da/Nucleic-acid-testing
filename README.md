@@ -20,9 +20,11 @@
 
 方式二：爱康国宾
 
-1、![image](https://yj-zhu.github.io/Nucleic-acid-testing/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200622131333.jpg)
+1、爱康国宾 官方购买
+![image](https://yj-zhu.github.io/Nucleic-acid-testing/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200622131333.jpg)
 
-2、![image](https://yj-zhu.github.io/Nucleic-acid-testing/image/infoflow_2020-6-22_13-13-55.png)
+可选择的检测采集点
+![image](https://yj-zhu.github.io/Nucleic-acid-testing/image/infoflow_2020-6-22_13-13-55.png)
 
 
 检测注意事项：
